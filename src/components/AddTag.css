@@ -1,0 +1,13 @@
+.tags{
+    background-color: lightgrey;
+    /* width: 30px; */
+    margin: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    position: relative;
+    top: -20px;
+}
+
+.context {
+    margin: 5px;
+}
